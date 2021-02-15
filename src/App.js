@@ -4,7 +4,7 @@
 function App() {
   return (
     <div >      
-     <h1>Slide a caminho</h1>    
+     <h1 style={{color:'red'}}>Slide a caminho</h1>    
     </div>
   );
 }
