@@ -4,7 +4,7 @@
 function App() {
   return (
     <div >      
-     <h1>Slide</h1>    
+     <h1>Slide a caminho</h1>    
     </div>
   );
 }
