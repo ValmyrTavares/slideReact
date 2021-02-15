@@ -26,7 +26,7 @@ const musas = [
 function App() {
   return (
     < >      
-     <h1 style={{color:'red'}}>Musas sem nome</h1>    
+     <h1 className="title"style={{color:'red'}}>Musas sem nome</h1>    
      <Slide slides={musas}/>
     </>
   );

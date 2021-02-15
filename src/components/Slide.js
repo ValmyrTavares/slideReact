@@ -2,12 +2,12 @@ import React from 'react'
 
 function Slide({slides}) {
     return (
-        <section>
-            <div>
-            {slides.map(item => <div>{item.text}</div>)}               
+        <section className='container'>
+            <div className="content">
+            {slides.map(item => <div key={slides.id} className="item">{item.text}</div>)}               
             </div>       
-            <nav>
-                <button>Anterior</button>
+            <nav className="nav">
+                <button> Anterior</button>
                 <button>Seguinte</button>
             </nav>
         </section>
