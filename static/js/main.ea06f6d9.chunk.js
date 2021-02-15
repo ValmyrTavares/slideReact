@@ -1,0 +1,2 @@
+(this.webpackJsonpslides=this.webpackJsonpslides||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var c=n(1),s=n.n(c),i=n(3),r=n.n(i),d=(n(8),n(0));var o=function(){return Object(d.jsx)("div",{children:Object(d.jsx)("h1",{style:{color:"red"},children:"Slide a caminho"})})};r.a.render(Object(d.jsx)(s.a.StrictMode,{children:Object(d.jsx)(o,{})}),document.getElementById("root"))},8:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.ea06f6d9.chunk.js.map
